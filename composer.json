@@ -1,0 +1,14 @@
+{
+    "name": "artem/patterns",
+    "autoload": {
+        "psr-4": {
+            "Artem\\Patterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ArtemBabaiev"
+        }
+    ],
+    "require": {}
+}
